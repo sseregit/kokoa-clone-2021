@@ -21,10 +21,15 @@
   font-size: 22px;
 }
 
-.user-omponent__subtitle {
-  margin-top: 8px;
+.user-component__subtitle {
+  margin-top: 10px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+}
+
+.user-component__subtitle i {
+  margin-left: 3px;
+  color: red;
 }
 
 .user-component__title--not-bold {
