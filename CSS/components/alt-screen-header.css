@@ -29,3 +29,7 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.alt-header__column span:last-child {
+  margin-left: 30px;
+}
